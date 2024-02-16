@@ -1,2 +1,2 @@
 # flipkart_clone_
-flipkart clone using tailwindcss 
+flipkart clone using with the help of tailwindcss 
